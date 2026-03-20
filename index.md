@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my blog! My name is Lizzie)
 ---
